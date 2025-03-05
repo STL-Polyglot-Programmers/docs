@@ -6,3 +6,7 @@ us, through their strength and resilience, our great responsibility
 as stewards of the land. We appreciate the vast and often unrecognized
 contributions of Indigenous people and are conscious of their ongoing
 experiences of inequality.
+
+In offering this land acknowledgment, we acknowledge all Native peoples
+who came before us and continue contributing to the advancement of
+computer science and programming.
