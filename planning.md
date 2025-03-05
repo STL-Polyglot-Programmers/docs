@@ -1,6 +1,6 @@
 # Planning Document
 
-## Static Site Generator Selection
+## Static Site Generator Selection, March 2025
 We want to take these documents and eventually create a site at stl-polyglot-programmers.com using a static site generator.
 We need to decide which one to go with.
 
