@@ -14,4 +14,26 @@ Please make PRs to this document for your suggestions.
 - Support for custom themes
 
 ### Suggestions
-PLEASE PUT SUGGESTIONS HERE
+
+#### Hakyll
+
+*Quick Look*
+
+  - [Hakyll home page](https://jaspervdj.be/hakyll/)
+  - [Example: haskell.org](https://github.com/haskell-infra/www.haskell.org)
+  - [Example: effective-haskell.com](https://github.com/rebeccaskinner/effective-haskell.com)
+
+*Pros*
+
+  - Existing examples of static sites with deployment automation using github actions
+  - Existing examples of local development and testing workflows with and without nix
+  - Supports custom styles and templates
+  - Pandoc support
+  - Easily customizable
+  - Very low maintenance; the vast majority of content and style changes do not require code changes
+
+*Cons*
+
+  - No existing examples of a CI pipeline that deploys to netifly
+  - No pre-built templates (unless you borrow from existing open source websites)
+  - Haskell is less widely known than other languages, which could discourage contributions even though it's not required for content changes
